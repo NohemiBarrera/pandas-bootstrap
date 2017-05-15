@@ -34,7 +34,7 @@ a:hover {
 
 .enlace {
 	/*display: inline-block;*/
-	border: 2px solid pink;
+	border: 2px solid grey;
 	color: white;
 	margin: 20px 30px;
 	width: 320px;
@@ -53,7 +53,7 @@ p {
 	width: 420px;
 	height: 25px;
 	/*display: inline-block;*/
-	color: black;
+	color: grey;
 }
 
 .cerrar {
